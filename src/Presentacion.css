@@ -1,0 +1,12 @@
+img{
+    max-width: 250px;
+    border-radius: 7px;
+}
+.ImgContenido{
+    max-width: 450px;
+    border-radius: 7px;
+}
+.BannerContacto{
+    max-width: 90px;
+    border-radius: 8px;
+}
